@@ -7,10 +7,10 @@ int main(){
     int num1, num2, soma, multiplicacao;
 
     //Entradas
-    printf("Informe o primeiro número: ");
+    printf("Informe o primeiro numero: ");
     scanf("%d", &num1);
 
-    printf("Informe o segundo número: ");
+    printf("Informe o segundo numero: ");
     scanf("%d", &num2);
 
     //Processamentos
@@ -18,6 +18,6 @@ int main(){
     multiplicacao = soma * num1;
 
     //Saída
-    printf("O resultado da multiplicação é %d", multiplicacao);
+    printf("O resultado da multiplicacaoo eh %d", multiplicacao);
     
 }
