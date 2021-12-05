@@ -1,0 +1,3 @@
+F:/OneDrive/TI/GitHub/Curso-Udemy-Algoritmos-Logica-GeekUniversity/cmake-build-debug/CMakeFiles/Curso_Udemy_Algoritmos_Logica_GeekUniversity.dir
+F:/OneDrive/TI/GitHub/Curso-Udemy-Algoritmos-Logica-GeekUniversity/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/OneDrive/TI/GitHub/Curso-Udemy-Algoritmos-Logica-GeekUniversity/cmake-build-debug/CMakeFiles/rebuild_cache.dir

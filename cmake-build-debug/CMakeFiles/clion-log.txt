@@ -1,0 +1,4 @@
+C:\Users\gusta\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.5744.254\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/gusta/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/ninja/win/ninja.exe -G Ninja F:\OneDrive\TI\GitHub\Curso-Udemy-Algoritmos-Logica-GeekUniversity
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/OneDrive/TI/GitHub/Curso-Udemy-Algoritmos-Logica-GeekUniversity/cmake-build-debug
